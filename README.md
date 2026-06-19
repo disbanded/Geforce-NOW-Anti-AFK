@@ -1,0 +1,2 @@
+# Geforce NOW Anti-AFK
+
